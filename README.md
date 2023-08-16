@@ -1,4 +1,4 @@
-# Awesome README by Ramin - FrontEnd Developer Extraordinaire! 👨‍💻
+# FrontEnd Developer Extraordinaire! 👨‍💻
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=raminmikayilov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
