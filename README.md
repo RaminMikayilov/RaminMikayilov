@@ -24,7 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raminmikayilov&show_icons=true&locale=en&layout=compact" alt="raminmikayilov" /></p>  
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=raminmikayilov&show_icons=true&locale=en" alt="raminmikayilov" /></p>  
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raminmikayilov&" alt="raminmikayilov" /></p>
