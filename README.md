@@ -38,6 +38,9 @@ Hello there! 👋 I'm Ramin, an enthusiastic FrontEnd Developer hailing from the
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
   </a>
+  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.styled-components.com/logo.png" alt="Styled Components" width="40" height="40" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
