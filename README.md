@@ -62,7 +62,6 @@ Hello there! 👋 I'm Ramin, an enthusiastic FrontEnd Developer hailing from the
 ### GitHub Stats 📊
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raminmikayilov&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raminmikayilov" alt="GitHub Streak" />
 </div>
 
