@@ -4,7 +4,7 @@ Hello there! 👋
 
 ### :ear: About Me :
 
-- 🧑‍💻 **Front-end developer**
+- 🧑‍💻 **Front-end Developer**
 
 - :fire: **Javascript**
 
