@@ -2,6 +2,12 @@
 
 Hello there! 👋
 
+### :ear: About Me :
+
+- 🧑‍💻 **Full-stack developer**
+
+- :fire: **Javascript**
+
 #### :hammer_and_wrench: Languages and Tools :
 
 <div>
